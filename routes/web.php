@@ -10,3 +10,6 @@ Route::get('/', [BlogController::class, 'index']);
 Route::get('/blog', [BlogController::class, 'blog']);
 Route::get('/tentang', [BlogController::class, 'tentang']);
 Route::get('/kontak', [BlogController::class, 'kontak']);
+Route::view('/blog/sejarah', 'artikel.sejarah');
+Route::view('/blog/beethoven', 'artikel.beethoven');
+Route::view('/blog/jenis', 'artikel.jenis');

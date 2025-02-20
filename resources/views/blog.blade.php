@@ -20,44 +20,34 @@
                         <div class="col-lg-6">
                             <!-- Blog post-->
                             <div class="card mb-4">
-                                <a href="#!"><img class="card-img-top" src="https://dummyimage.com/700x350/dee2e6/6c757d.jpg" alt="..." /></a>
+                                <a href="/blog/sejarah"><img class="card-img-top" src="{{ asset('assets/sejarah11.jpg') }}" alt="..." /></a>
                                 <div class="card-body">
-                                    <div class="small text-muted">January 1, 2023</div>
-                                    <h2 class="card-title h4">Post Title</h2>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla.</p>
-                                    <a class="btn btn-primary" href="#!">Read more →</a>
+                                    <div class="small text-muted">1 September 2024</div>
+                                    <h2 class="card-title h4">Sejarah Musik Dari Berbagai Era</h2>
+                                    <p class="card-text">Musik adalah salah satu bentuk seni yang paling tua dan telah ada sejak manusia pertama kali mampu membuat suara.</p>
+                                    <a class="btn btn-primary" href="/blog/sejarah">Read more →</a>
                                 </div>
                             </div>
                             <!-- Blog post-->
                             <div class="card mb-4">
-                                <a href="#!"><img class="card-img-top" src="https://dummyimage.com/700x350/dee2e6/6c757d.jpg" alt="..." /></a>
+                                <a href="/blog/jenis"><img class="card-img-top" src="{{ asset('assets/alatmusik.jpg') }}" alt="..." /></a>
                                 <div class="card-body">
-                                    <div class="small text-muted">January 1, 2023</div>
-                                    <h2 class="card-title h4">Post Title</h2>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla.</p>
-                                    <a class="btn btn-primary" href="#!">Read more →</a>
+                                    <div class="small text-muted">10 September 2024</div>
+                                    <h2 class="card-title h4">Jenis Alat Musik</h2>
+                                    <p class="card-text">Alat musik adalah instrumen yang dirancang atau dimodifikasi untuk menghasilkan bunyi dan suara, yang digunakan dalam berbagai genre musik di seluruh dunia.</p>
+                                    <a class="btn btn-primary" href="/blog/jenis">Read more →</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <!-- Blog post-->
                             <div class="card mb-4">
-                                <a href="#!"><img class="card-img-top" src="https://dummyimage.com/700x350/dee2e6/6c757d.jpg" alt="..." /></a>
+                                <a href="/blog/beethoven"><img class="card-img-top" src="{{ asset('assets/beethoven.jpg') }}" alt="..." /></a>
                                 <div class="card-body">
-                                    <div class="small text-muted">January 1, 2023</div>
-                                    <h2 class="card-title h4">Post Title</h2>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla.</p>
-                                    <a class="btn btn-primary" href="#!">Read more →</a>
-                                </div>
-                            </div>
-                            <!-- Blog post-->
-                            <div class="card mb-4">
-                                <a href="#!"><img class="card-img-top" src="https://dummyimage.com/700x350/dee2e6/6c757d.jpg" alt="..." /></a>
-                                <div class="card-body">
-                                    <div class="small text-muted">January 1, 2023</div>
-                                    <h2 class="card-title h4">Post Title</h2>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam.</p>
-                                    <a class="btn btn-primary" href="#!">Read more →</a>
+                                    <div class="small text-muted">5 September 2024</div>
+                                    <h2 class="card-title h4">Mengenal "Ludwig Van Beethoven" Seorang Musisi Tuli Dari Era Klasik</h2>
+                                    <p class="card-text">Ludwig van Beethoven adalah salah satu nama terbesar dalam sejarah musik klasik, seorang komponis yang tidak hanya melampaui batasan-batasan zamannya, tetapi juga mengubah arah musik Barat selamanya.</p>
+                                    <a class="btn btn-primary" href="/blog/beethoven">Read more →</a>
                                 </div>
                             </div>
                         </div>

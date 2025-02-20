@@ -24,24 +24,24 @@
                         <div class="col-lg-6">
                             <!-- Blog post-->
                             <div class="card mb-4">
-                                <a href=""><img class="card-img-top" src="{{ asset('assets/sejarah11.jpg') }}" alt="..." /></a>
+                                <a href="/blog/sejarah"><img class="card-img-top" src="{{ asset('assets/sejarah11.jpg') }}" alt="..." /></a>
                                 <div class="card-body">
-                                    <div class="small text-muted">September 1, 2024</div>
+                                    <div class="small text-muted">1 September 2024</div>
                                     <h2 class="card-title h4">Sejarah Musik Dari Berbagai Era</h2>
                                     <p class="card-text">Musik adalah salah satu bentuk seni yang paling tua dan telah ada sejak manusia pertama kali mampu membuat suara.</p>
-                                    <a class="btn btn-primary" href="#!">Read more →</a>
+                                    <a class="btn btn-primary" href="/blog/sejarah">Read more →</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <!-- Blog post-->
                             <div class="card mb-4">
-                                <a href="#!"><img class="card-img-top" src="{{ asset('assets/beethoven.jpg') }}" alt="..." /></a>
+                                <a href="/blog/beethoven"><img class="card-img-top" src="{{ asset('assets/beethoven.jpg') }}" alt="..." /></a>
                                 <div class="card-body">
-                                    <div class="small text-muted">September 5, 2024</div>
+                                    <div class="small text-muted">5 September 2024</div>
                                     <h2 class="card-title h4">Mengenal "Ludwig Van Beethoven" Seorang Musisi Tuli Dari Era Klasik</h2>
                                     <p class="card-text">Ludwig van Beethoven adalah salah satu nama terbesar dalam sejarah musik klasik, seorang komponis yang tidak hanya melampaui batasan-batasan zamannya, tetapi juga mengubah arah musik Barat selamanya.</p>
-                                    <a class="btn btn-primary" href="#!">Read more →</a>
+                                    <a class="btn btn-primary" href="/blog/beethoven">Read more →</a>
                                 </div>
                             </div>
                         </div>
